@@ -1,7 +1,7 @@
 import os
 
 # exclude these directories from being zipped
-exclude = [".git", "template", ".idea", "scripts"]
+exclude = [".git", "template", ".idea", "scripts", "flat_template"]
 
 path = "/data/col/data-unit-tests"
 os.chdir(path)

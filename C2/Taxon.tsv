@@ -1,11 +1,11 @@
-ID	parentID	nameID	provisional	accordingTo	accordingToID	accordingToDate	referenceID	fossil	recent	lifezone	link	remarks	subgenus	genus	subfamily	family	superfamily	suborder	order	subclass	class	subphylum	phylum	kingdom
-1	1	1	F	GSD203		2018-01-09T00:00:00																		
-2	1	2	F	GSD203		2018-01-09T00:00:00																		
-3	2	3	F	GSD203		2018-01-09T00:00:00																		
-4	3	4	F	GSD203		2018-01-09T00:00:00																		
-5	4	5	F	GSD203		2018-01-09T00:00:00																		
-6	5	6	F	GSD203		2018-01-09T00:00:00																		
-7	6	7	F	GSD203		2018-01-09T00:00:00																		
-8	7	8	F	GSD203		2018-01-09T00:00:00		F	T	terrestrial		Duplicate accepted name with same author												
-9	7	9	F	GSD203		2018-01-09T00:00:00		F	T	terrestrial		Duplicate accepted name with same author												
+ID	parentID	nameID	provisional	accordingTo	accordingToID	accordingToDate	referenceID	fossil	recent	lifezone	link	remarks
+1	1	1	F	GSD203		2018-01-09T00:00:00						
+2	1	2	F	GSD203		2018-01-09T00:00:00						
+3	2	3	F	GSD203		2018-01-09T00:00:00						
+4	3	4	F	GSD203		2018-01-09T00:00:00						
+5	4	5	F	GSD203		2018-01-09T00:00:00						
+6	5	6	F	GSD203		2018-01-09T00:00:00						
+7	6	7	F	GSD203		2018-01-09T00:00:00						
+8	7	8	F	GSD203		2018-01-09T00:00:00		F	T	terrestrial		Duplicate accepted name with same author
+9	7	9	F	GSD203		2018-01-09T00:00:00		F	T	terrestrial		Duplicate accepted name with same author
 
