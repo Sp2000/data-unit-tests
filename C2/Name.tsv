@@ -1,2 +1,11 @@
 ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	publishedInID	publishedInPage	code	status	link	remarks
+1	Animalia		kingdom						ICZN			
+2	Arthropoda		phylum						ICZN			
+3	Insecta		class						ICZN			
+4	Thysanoptera		order						ICZN			
+5	Phlaeothripidae		family						ICZN			
+6	Liothrips	Uzel, 1895	genus						ICZN			
+7	Zopyrothrips	Priesner, 1968	subgenus						ICZN			
+8	Liothrips vitivorus	Priesner, 1935	species	Liothrips	vitivorus				ICZN			Duplicate accepted name with same author
+9	Liothrips vitivorus	Priesner, 1935	species	Liothrips	vitivorus				ICZN			Duplicate accepted name with same author
 
