@@ -5,8 +5,8 @@ ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	pub
 4	Julida		order						zoological			
 5	Juloidea		superfamily						zoological			
 6	Julidae		family						zoological			
-7	Leptoiulus		genus	Aristida					zoological			
-8	Leptoiulus trilineatus (Koch, C. L., 1847)	(Koch, C. L., 1847)	species	Aristida	trilineatus				zoological			
-9	Leptoiulus trilineatus nigra Attems, 1927	Attems, 1927	subspecies	Aristida	trilineatus	nigra			zoological			Test for duplicate ACC-SYN infraspecies (diff parent, diff authors)
-10	Leptoiulus trilineatus nigra (Verhoeff, 1898)	(Verhoeff, 1898)	subspecies	Aristida	trilineatus	nigra			zoological			Test for duplicate ACC-SYN infraspecies (diff parent, diff authors)
+7	Leptoiulus		genus	Leptoiulus					zoological			
+8	Leptoiulus trilineatus (Koch, C. L., 1847)	(Koch, C. L., 1847)	species	Leptoiulus	trilineatus				zoological			
+9	Leptoiulus trilineatus nigra Attems, 1927	Attems, 1927	subspecies	Leptoiulus	trilineatus	nigra			zoological			Test for duplicate ACC-SYN infraspecies (diff parent, diff authors)
+10	Leptoiulus trilineatus nigra (Verhoeff, 1898)	(Verhoeff, 1898)	subspecies	Leptoiulus	trilineatus	nigra			zoological			Test for duplicate ACC-SYN infraspecies (diff parent, diff authors)
 
