@@ -1,0 +1,11 @@
+ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	publishedInID	publishedInPage	code	status	link	remarks
+1	Plantae		kingdom									
+2	Tracheophyta		phylum									
+3	Magnoliopsida		class									
+4	Asterales		order									
+5	Asteraceae		family						ICNafp			
+6	Artemisia		genus	Artemisia					ICNafp			
+7	Artemisia eriopoda 	Bunge	species	Artemisia	eriopoda				ICNafp			
+8	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Ling	variety	Artemisia	eriopoda	rotundifolia			ICNafp			Test for duplicate ACC-SYN infraspecies (same parent, same authors)
+9	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Ling	variety	Artemisia	eriopoda	rotundifolia			ICNafp			Test for duplicate ACC-SYN infraspecies (same parent, same authors)
+
