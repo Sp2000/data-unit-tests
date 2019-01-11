@@ -1,0 +1,3 @@
+taxonID	nameID	status	remarks
+7	8	synonym	Test for duplicate ACC-SYN (different parent, different authors)
+
