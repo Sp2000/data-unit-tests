@@ -1,0 +1,10 @@
+ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	publishedInID	publishedInPage	code	status	link	remarks
+1	Plantae		kingdom									
+2	Tracheophyta		phylum									
+3	Magnoliopsida		class									
+4	Asterales		order									
+5	Asteraceae		family						ICNafp			
+6	Anthemis		genus	Anthemis					ICNafp			
+7	 argyrophylla (Halácsy & Georgiev) Velen.	(Halácsy & Georgiev) Velen.	species	Anthemis	argyrophylla				ICNafp			Test for duplicate ACC-SYN (same parent, same authors)
+8	 argyrophylla (Halácsy & Georgiev) Velen.	(Halácsy & Georgiev) Velen.	species	Anthemis	argyrophylla				ICNafp			Test for duplicate ACC-SYN (same parent, same authors)
+
