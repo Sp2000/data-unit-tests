@@ -7,6 +7,6 @@ ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	pub
 6	Cheirolophus		genus	Cheirolophus					ICNafp			
 7	Cheirolophus crassifolius (Bertol.) A. Susanna	(Bertol.) A. Susanna	species	Cheirolophus	crassifolius				ICNafp			
 10	Palaeocyanus		genus	Palaeocyanus					ICNafp			
-11	Palaeocyanus crassifolius (Bertol.) Dostal	(Bertol.) Dostal	species	Palaeocyanus	crassifolius				ICNafp			 authors)
-12	Palaeocyanus crassifolius (Bertol.) Dostal	(Bertol.) Dostal	species	Palaeocyanus	crassifolius				ICNafp			 authors)
+11	Palaeocyanus crassifolius (Bertol.) Dostal	(Bertol.) Dostal	species	Palaeocyanus	crassifolius				ICNafp			Test for duplicate SYN-SYN (same parent, same authors)
+12	Palaeocyanus crassifolius (Bertol.) Dostal	(Bertol.) Dostal	species	Palaeocyanus	crassifolius				ICNafp			Test for duplicate SYN-SYN (same parent, same authors)
 
