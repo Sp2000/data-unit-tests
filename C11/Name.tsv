@@ -8,6 +8,6 @@ ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	pub
 7	Campomanesia lineatifolia Ruiz & Pav.	Ruiz & Pav.	species	Campomanesia	lineatifolia				ICNafp			
 8	Campomanesia guaviroba (DC.) Bertoni	(DC.) Bertoni	species	Campomanesia	guaviroba				ICNafp			
 10	Abbevillea		genus	Abbevillea					ICNafp			
-11	Abbevillea fenzliana Berg	Berg	species	Abbevillea	fenzliana				ICNafp			 authors)
-12	Abbevillea fenzliana O.Berg	O.Berg	species	Abbevillea	fenzliana				ICNafp			 authors)
+11	Abbevillea fenzliana Berg	Berg	species	Abbevillea	fenzliana				ICNafp			  	Test for duplicate SYN-SYN (diff parent, diff authors)
+12	Abbevillea fenzliana O.Berg	O.Berg	species	Abbevillea	fenzliana				ICNafp			  	Test for duplicate SYN-SYN (diff parent, diff authors)
 
