@@ -8,6 +8,6 @@ ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	pub
 7	Oxalis griffithii Edgew. & Hook. Fil.	Edgew. & Hook. Fil.	species	Oxalis	griffithii				ICNafp			
 8	Oxalis obtriangulata Maxim.	Maxim.	species	Oxalis	obtriangulata				ICNafp			
 10	Acetosella		genus	Acetosella					ICNafp			
-11	Acetosella obtriangulata (Maxim.) Kuntze	(Maxim.) Kuntze	species	Acetosella	obtriangulata				ICNafp			 authors)
-12	Acetosella obtriangulata (Maxim.) Kuntze	(Maxim.) Kuntze	species	Acetosella	obtriangulata				ICNafp			 authors)
+11	Acetosella obtriangulata (Maxim.) Kuntze	(Maxim.) Kuntze	species	Acetosella	obtriangulata				ICNafp			Test for duplicate SYN-SYN (diff parent, same authors)
+12	Acetosella obtriangulata (Maxim.) Kuntze	(Maxim.) Kuntze	species	Acetosella	obtriangulata				ICNafp			Test for duplicate SYN-SYN (diff parent, same authors)
 
