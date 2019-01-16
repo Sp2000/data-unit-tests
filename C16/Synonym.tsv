@@ -1,4 +1,4 @@
 taxonID	nameID	status	remarks
-2	4	synonym	 authors)
-3	5	synonym	 authors)
+2	4	synonym	Test for duplicate infraspecies SYN-SYN (diff parent, same authors)
+3	5	synonym	Test for duplicate infraspecies SYN-SYN (diff parent, same authors)
 

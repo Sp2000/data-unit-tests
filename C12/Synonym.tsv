@@ -1,5 +1,5 @@
 taxonID	nameID	status	remarks
-7	11	synonym	 authors)
-8	12	synonym	 authors)
+7	11	synonym	Test for duplicate SYN-SYN (diff parent, same authors)
+8	12	synonym	Test for duplicate SYN-SYN (diff parent, same authors)
 6	10	synonym	
 
