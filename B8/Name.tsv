@@ -1,0 +1,16 @@
+ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	publishedInID	publishedInPage	code	status	link	remarks
+1	Plantae		kingdom									
+2	Tracheophyta		phylum									
+3	Magnoliopsida		class									
+4	Rosales		order									
+5	Ulmaceae		family						ICNafp			
+6	Zelkova		genus	Zelkova					ICNafp			
+7	Zelkova abelicea (Lam.) Boiss.	(Lam.) Boiss.	species	Zelkova	abelicea				ICNafp			
+10	Abelicea		genus	Abelicea					ICNafp			
+11	Abelicea cretica (Sibth. & Sm.) Kuntze	(Sibth. & Sm.) Kuntze	species	Abelicea	cretica				ICNafp			Test for duplicate SYN-SYN (same parent, diff authors)
+12	Abelicea cretica (Sibth. & Sm.) Rafin.	(Sibth. & Sm.) Rafin.	species	Abelicea	cretica				ICNafp			Test for duplicate SYN-SYN (same parent, diff authors)
+21	Zabelia		genus	Zabelia					botanical			
+22	Zabelia parvifolia (C. B. Cl.) Golubkova	(C. B. Cl.) Golubkova	species	Zabelia	parvifolia				botanical			
+23	Abelia triflora var. parvifolia (C. B. Cl.) Kitam.	(C. B. Cl.) Kitam.	variety	Abelia	triflora	parvifolia			botanical			Test for duplicate infraspecies SYN-SYN (same parent, diff authors)
+24	Abelia triflora var. parvifolia Clarke	Clarke	variety	Abelia	triflora	parvifolia			botanical			Test for duplicate infraspecies SYN-SYN (same parent, diff authors)
+

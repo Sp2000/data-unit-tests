@@ -1,0 +1,16 @@
+ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	publishedInID	publishedInPage	code	status	link	remarks
+1	Plantae		kingdom									
+2	Tracheophyta		phylum									
+3	Magnoliopsida		class									
+4	Asterales		order									
+5	Asteraceae		family						ICNafp			
+6	Cheirolophus		genus	Cheirolophus					ICNafp			
+7	Cheirolophus crassifolius (Bertol.) A. Susanna	(Bertol.) A. Susanna	species	Cheirolophus	crassifolius				ICNafp			
+10	Palaeocyanus		genus	Palaeocyanus					ICNafp			
+11	Palaeocyanus crassifolius (Bertol.) Dostal	(Bertol.) Dostal	species	Palaeocyanus	crassifolius				ICNafp			Test for duplicate SYN-SYN (same parent, same authors)
+12	Palaeocyanus crassifolius (Bertol.) Dostal	(Bertol.) Dostal	species	Palaeocyanus	crassifolius				ICNafp			Test for duplicate SYN-SYN (same parent, same authors)
+21	Aconitum		genus	Aconitum					botanical			
+22	Aconitum lycoctonum subsp. neapolitanum (Ten.) Nyman	(Ten.) Nyman	subspecies	Aconitum	parvifolia				botanical			
+23	Aconitum pyrenaicum subsp. lamarckii (Rchb.) O. Bolös & Vigo	(Rchb.) O. Bolös & Vigo	subspecies	Aconitum	pyrenaicum	lamarckii			botanical			Test for duplicate infraspecies SYN-SYN (same parent, same authors)
+24	Aconitum pyrenaicum subsp. lamarckii (Rchb.) O. Bolös & Vigo	(Rchb.) O. Bolös & Vigo	subspecies	Aconitum	pyrenaicum	lamarckii			botanical			Test for duplicate infraspecies SYN-SYN (same parent, same authors)
+

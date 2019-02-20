@@ -1,0 +1,4 @@
+taxonID	nameID	status	remarks
+7	8	synonym	Test for duplicate ACC-SYN (different parent, different authors)
+28	30	synonym	Test for duplicate ACC-SYN infraspecies (diff parent, diff authors)
+

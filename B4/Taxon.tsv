@@ -1,0 +1,17 @@
+ID	parentID	nameID	provisional	accordingTo	accordingToID	accordingToDate	referenceID	fossil	recent	lifezone	link	remarks
+1		1										
+2	1	2										
+3	2	3										
+4	3	4										
+5	4	5										
+6	5	6										
+7	6	7	1	GSD141		2019-01-10T00:00:00		0	1			Test for duplicate ACC-SYN (different parent, same authors)
+21	20	21										
+22	21	22										
+23	22	23										
+24	23	24										
+25	24	25										
+26	25	26										
+27	26	27		GSD141		43475		0	1			Test for duplicate ACC-SYN infraspecies (diff parent, same authors)
+28	27	28		GSD141		43475		0	1			Test for duplicate ACC-SYN infraspecies (diff parent, same authors)
+

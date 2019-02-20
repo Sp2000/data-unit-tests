@@ -1,0 +1,7 @@
+taxonID	nameID	status	remarks
+7	11	synonym	Test for duplicate SYN-SYN (same parent, diff authors)
+7	12	synonym	Test for duplicate SYN-SYN (same parent, diff authors)
+6	10	synonym	
+22	23	synonym	Test for duplicate infraspecies SYN-SYN (same parent, diff authors)
+22	24	synonym	Test for duplicate infraspecies SYN-SYN (same parent, diff authors)
+

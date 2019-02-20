@@ -1,0 +1,19 @@
+ID	parentID	nameID	provisional	accordingTo	accordingToID	accordingToDate	referenceID	fossil	recent	lifezone	link	remarks
+1	1	1	F	GSD27		2018-10-28						
+2	1	2	F	GSD27		2018-10-28						
+3	2	3	F	GSD27		2018-10-28						
+4	3	4	F	GSD27		2018-10-28						
+5	4	5	F	GSD27		2018-10-28						
+6	5	6	F	GSD27		2018-10-28						
+23-.01-.03-.01-.001-.000-.540-.-	6	23-.01-.03-.01-.001-.000-.540-.-	F	GSD27		2018-10-28		0	1			Test for duplicated accepted species with diff author string
+23-.01-.03-.01-.001-.000-.368-.-	6	23-.01-.03-.01-.001-.000-.368-.-	F	GSD27		2018-10-28		0	1			Test for duplicated accepted species with diff author string
+11	11	11										
+12	11	12										
+13	12	13										
+14	13	14										
+15	14	15										
+16	15	16										
+17	16	17	1	GSD141		2019-01-10T00:00:00		0	1			
+18	17	18	0	GSD141		2019-01-10T00:00:00		0	1			Test for duplicated accepted infraspecies with diff author string
+19	17	19	0	GSD141		2019-01-10T00:00:00		0	1			Test for duplicated accepted infraspecies with diff author string
+
