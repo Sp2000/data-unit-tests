@@ -1,0 +1,6 @@
+ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	publishedInID	publishedInPage	code	status	link	remarks
+1	Anthomyiidae		family						zoological			
+2	Muscidae		family						zoological			
+3	Adia cinerea (Robineau-Desvoidy, 1830)	(Robineau-Desvoidy, 1830)	species	Adia	cinerea				zoological			Test for duplicate genera split between more than 1 family
+4	 (Robineau-Desvoidy, 1830)	(Robineau-Desvoidy, 1830)	species	Adia	dejeanii				zoological			Test for duplicate genera split between more than 1 family
+
