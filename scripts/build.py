@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 import os
+import subprocess
+import time
 
 # exclude these directories from being zipped
-exclude = [".git", "template", ".idea", "scripts", "flat_template"]
+exclude = [".git", "template", ".idea", "scripts", "flat_template","tmp","acef_template"]
 
 path = "/data/col/data-unit-tests"
 os.chdir(path)
@@ -16,9 +18,11 @@ for subdir, directories, files in os.walk(path):
             os.chdir(dir)
 
             # convert ods to tsv
-            os.system("ods2tsv Template.ods")
-            os.system("mv Template.d/* .")
-            os.system("rmdir Template.d")
+            p = subprocess.Popen(['soffice','macro:///Standard.Module1.ExportAllToCsv','Template.ods'])
+            time.sleep(3)
+            p.kill()
+            os.system("killall -9 soffice.bin")
+            os.system("mv /data/col/data-unit-tests/tmp/* .")
 
             # purge the zip archive of tsv files
             os.system("zip -d ../" + dir + ".zip *.tsv")
