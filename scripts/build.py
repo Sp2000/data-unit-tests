@@ -19,9 +19,8 @@ for subdir, directories, files in os.walk(path):
 
             # convert ods to tsv
             p = subprocess.Popen(['soffice','macro:///Standard.Module1.ExportAllToCsv','Template.ods'])
-            time.sleep(3)
+            time.sleep(5) # TODO: find a better way to export ODS
             p.kill()
-            os.system("killall -9 soffice.bin")
             os.system("mv /data/col/data-unit-tests/tmp/* .")
 
             # purge the zip archive of tsv files

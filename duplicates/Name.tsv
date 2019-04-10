@@ -1,0 +1,148 @@
+ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	publishedInID	publishedInPage	code	status	link	remarks
+B1-23-.01-.03-.01-.001-.000-.540-.-	Anomala crassa	(Benderitter 1923)	species	Anomala	crassa		BEND-028		ICZN		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted species with diff author string
+B1-23-.01-.03-.01-.001-.000-.368-.-	Anomala crassa	Lansberge 1879	species	Anomala	crassa		LANS-014		ICZN		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted species with diff author string
+B1-1	Animalia		kingdom						ICZN			
+B1-2	Arthropoda		phylum						ICZN			
+B1-3	Insecta		class						ICZN			
+B1-4	Coleoptera		order						ICZN			
+B1-5	Scarabaeoidea		superfamily						ICZN			
+B1-6	Aegialiidae		family						ICZN			
+B1-11	Plantae		kingdom									
+B1-12	Tracheophyta		phylum									
+B1-13	Magnoliopsida		class									
+B1-14	Lamiales		order									
+B1-15	Acanthaceae		family						ICNafp			
+B1-16	Dicliptera		genus	Dicliptera					ICNafp			
+B1-17	Dicliptera obtusifolia	(Bremek.)	species	Dicliptera	obtusifolia				ICNafp			
+B1-18	Dicliptera obtusifolia var. ciliifera Urb.	Urb.	subspecies	Dicliptera	obtusifolia	ciliifera			ICNafp		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted infraspecies with diff author string
+B1-19	Dicliptera obtusifolia var. ciliifera Urb.	Urb.	subspecies	Dicliptera	obtusifolia	ciliifera			ICNafp		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted infraspecies with diff author string
+B2-1	Animalia		kingdom						ICZN			
+B2-2	Arthropoda		phylum						ICZN			
+B2-3	Insecta		class						ICZN			
+B2-4	Thysanoptera		order						ICZN			
+B2-5	Phlaeothripidae		family						ICZN			
+B2-6	Liothrips	Uzel, 1895	genus						ICZN			
+B2-7	Zopyrothrips	Priesner, 1968	subgenus						ICZN			
+B2-8	Liothrips vitivorus	Priesner, 1935	species	Liothrips	vitivorus				ICZN		https://github.com/Sp2000/colplus-backend/issues/195	Duplicate accepted name with same author
+B2-9	Liothrips vitivorus	Priesner, 1935	species	Liothrips	vitivorus				ICZN		https://github.com/Sp2000/colplus-backend/issues/195	Duplicate accepted name with same author
+B2-11	Animalia		kingdom						ICZN			
+B2-12	Chordata		phylum						ICZN			
+B2-13	Reptilia		class						ICZN			
+B2-14	Squamata		order						ICZN			
+B2-15	Typhlopidae		family						ICZN			
+B2-16	Afrotyphlops		genus	Afrotyphlops					ICZN			
+B2-17	Afrotyphlops schlegelii	(Bianconi, 1847) 	species	Afrotyphlops	schlegelii				ICZN			
+B2-18	Afrotyphlops schlegelii schlegelii (Peters, 1860)	(Peters, 1860)	subspecies	Afrotyphlops	schlegelii	schlegelii			ICZN		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted infraspecies with the same author string
+B2-19	Afrotyphlops schlegelii schlegelii (Peters, 1860)	(Peters, 1860)	subspecies	Afrotyphlops	schlegelii	schlegelii			ICZN		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted infraspecies with the same author string
+B3-1	Plantae		kingdom									
+B3-2	Tracheophyta		phylum									
+B3-3	Magnoliopsida		class									
+B3-4	Caryophyllales		order									
+B3-5	Caryophyllaceae		family						ICNafp			
+B3-6	Acanthophyllum		genus	Acanthophyllum					ICNafp			
+B3-7	Acanthophyllum spinosum (Desf.) C. A. Mey.	(Desf.) C. A. Mey.	species	Acanthophyllum	spinosum				ICNafp			Test for duplicate ACC-SYN (different parent, different authors)
+B3-8	Acanthophyllum spinosum (Desf.) Kuntze	(Desf.) Kuntze	species	Acanthophyllum	spinosum				ICNafp			Test for duplicate ACC-SYN (different parent, different authors)
+B3-21	Animalia		kingdom									
+B3-22	Arthropoda		phylum									
+B3-23	Diplopoda		class									
+B3-24	Julida		order						zoological			
+B3-25	Juloidea		superfamily						zoological			
+B3-26	Julidae		family						zoological			
+B3-27	Leptoiulus		genus	Leptoiulus					zoological			
+B3-28	Leptoiulus trilineatus (Koch, C. L., 1847)	(Koch, C. L., 1847)	species	Leptoiulus	trilineatus				zoological			
+B3-29	Leptoiulus trilineatus nigra Attems, 1927	Attems, 1927	subspecies	Leptoiulus	trilineatus	nigra			zoological			Test for duplicate ACC-SYN infraspecies (diff parent, diff authors)
+B3-30	Leptoiulus trilineatus nigra (Verhoeff, 1898)	(Verhoeff, 1898)	subspecies	Leptoiulus	trilineatus	nigra			zoological			Test for duplicate ACC-SYN infraspecies (diff parent, diff authors)
+B4-1	Plantae		kingdom									
+B4-2	Tracheophyta		phylum									
+B4-3	Magnoliopsida		class									
+B4-4	Asterales		order									
+B4-5	Asteraceae		family						ICNafp			
+B4-6	Ageratina		genus	Ageratina					ICNafp			
+B4-7	Ageratina pochutlana B.L.Turner	B.L.Turner	species	Ageratina	pochutlana				ICNafp			Test for duplicate ACC-SYN (different parent, same authors)
+B4-8	Ageratina pochutlana B.L.Turner	B.L.Turner	species	Ageratina	pochutlana				ICNafp			Test for duplicate ACC-SYN (different parent, same authors)
+B4-21	Plantae		kingdom									
+B4-22	Tracheophyta		phylum									
+B4-23	Magnoliopsida		class									
+B4-24	Solanales		order									
+B4-25	Solanaceae		family						ICNafp			
+B4-26	Solanum		genus	Solanum					ICNafp			
+B4-27	Solanum bahamense L.	L.	species	Solanum	bahamense				ICNafp			
+B4-28	Solanum bahamense var. luxurians D'Arcy	D'Arcy	variety	Solanum	bahamense	luxurians			ICNafp			Test for duplicate ACC-SYN infraspecies (diff parent, same authors)
+B4-29	Solanum bahamense var. luxurians D'Arcy	D'Arcy	variety	Solanum	bahamense	luxurians			ICNafp			Test for duplicate ACC-SYN infraspecies (diff parent, same authors)
+B5-1	Plantae		kingdom									
+B5-2	Tracheophyta		phylum									
+B5-3	Magnoliopsida		class									
+B5-4	Asterales		order									
+B5-5	Asteraceae		family						ICNafp			
+B5-6	Anthemis		genus	Anthemis					ICNafp			
+B5-7	Anthemis argyrophylla (Halácsy & Georgiev) Velen.	(Halácsy & Georgiev) Velen.	species	Anthemis	argyrophylla				ICNafp			Test for duplicate ACC-SYN (same parent, same authors)
+B5-8	Anthemis argyrophylla (Halácsy & Georgiev) Velen.	(Halácsy & Georgiev) Velen.	species	Anthemis	argyrophylla				ICNafp			Test for duplicate ACC-SYN (same parent, same authors)
+B5-21	Plantae		kingdom									
+B5-22	Tracheophyta		phylum									
+B5-23	Magnoliopsida		class									
+B5-24	Asterales		order									
+B5-25	Asteraceae		family						ICNafp			
+B5-26	Artemisia		genus	Artemisia					ICNafp			
+B5-27	Artemisia eriopoda 	Bunge	species	Artemisia	eriopoda				ICNafp			
+B5-28	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Ling	variety	Artemisia	eriopoda	rotundifolia			ICNafp			Test for duplicate ACC-SYN infraspecies (same parent, same authors)
+B5-29	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Ling	variety	Artemisia	eriopoda	rotundifolia			ICNafp			Test for duplicate ACC-SYN infraspecies (same parent, same authors)
+B6-1	Plantae		kingdom									
+B6-2	Tracheophyta		phylum									
+B6-3	Magnoliopsida		class									
+B6-4	Myrtales		order									
+B6-5	Myrtaceae		family						ICNafp			
+B6-6	Campomanesia		genus	Campomanesia					ICNafp			
+B6-7	Campomanesia lineatifolia Ruiz & Pav.	Ruiz & Pav.	species	Campomanesia	lineatifolia				ICNafp			
+B6-8	Campomanesia guaviroba (DC.) Bertoni	(DC.) Bertoni	species	Campomanesia	guaviroba				ICNafp			
+B6-10	Abbevillea		genus	Abbevillea					ICNafp			
+B6-11	Abbevillea fenzliana Berg	Berg	species	Abbevillea	fenzliana				ICNafp			Test for duplicate SYN-SYN (diff parent, diff authors)
+B6-12	Abbevillea fenzliana O.Berg	O.Berg	species	Abbevillea	fenzliana				ICNafp			Test for duplicate SYN-SYN (diff parent, diff authors)
+B6-21	Callianthe		genus	Callianthe								
+B6-22	Callianthe sylvatica (Cav.) Dorr	(Cav.) Dorr	species	Callianthe	sylvatica							
+B6-23	Callianthe geminiflora (Kunth) Donnell	(Kunth) Donnell	species	Callianthe	geminiflora							
+B6-24	Abutilon sylvaticum buchtienii subsp. R. E. Fries	R. E. Fries	subspecies	Abutilon	sylvaticum	buchtienii			botanical			Test for duplicate infraspecies SYN-SYN (diff parent, diff authors)
+B6-25	Abutilon sylvaticum buchtienii subsp. R.E.Fr.	R.E.Fr.	subspecies	Abutilon	sylvaticum	buchtienii			botanical			Test for duplicate infraspecies SYN-SYN (diff parent, diff authors)
+B7-1	Plantae		kingdom									
+B7-2	Tracheophyta		phylum									
+B7-3	Magnoliopsida		class									
+B7-4	Oxalidales		order									
+B7-5	Oxalidaceae		family						ICNafp			
+B7-6	Oxalis		genus	Oxalis					ICNafp			
+B7-7	Oxalis griffithii Edgew. & Hook. Fil.	Edgew. & Hook. Fil.	species	Oxalis	griffithii				ICNafp			
+B7-8	Oxalis obtriangulata Maxim.	Maxim.	species	Oxalis	obtriangulata				ICNafp			
+B7-10	Acetosella		genus	Acetosella					ICNafp			
+B7-11	Acetosella obtriangulata (Maxim.) Kuntze	(Maxim.) Kuntze	species	Acetosella	obtriangulata				ICNafp			Test for duplicate SYN-SYN (diff parent, same authors)
+B7-12	Acetosella obtriangulata (Maxim.) Kuntze	(Maxim.) Kuntze	species	Acetosella	obtriangulata				ICNafp			Test for duplicate SYN-SYN (diff parent, same authors)
+B7-21	Antennaria		genus	Antennaria					botanical			
+B7-22	Antennaria microphylla Rydb.	Rydb.	species	Antennaria	microphylla				botanical			
+B7-23	Antennaria rosea subsp. rosea		subspecies	Antennaria	rosea	rosea			botanical			
+B7-24	Antennaria rosea var. nitida (Greene) Breitung	(Greene) Breitung	variety	Antennaria	rosea	nitida			botanical			Test for duplicate infraspecies SYN-SYN (diff parent, same authors)
+B7-25	Antennaria rosea var. nitida (Greene) Breitung	(Greene) Breitung	variety	Antennaria	rosea	nitida			botanical			Test for duplicate infraspecies SYN-SYN (diff parent, same authors)
+B8-1	Plantae		kingdom									
+B8-2	Tracheophyta		phylum									
+B8-3	Magnoliopsida		class									
+B8-4	Rosales		order									
+B8-5	Ulmaceae		family						ICNafp			
+B8-6	Zelkova		genus	Zelkova					ICNafp			
+B8-7	Zelkova abelicea (Lam.) Boiss.	(Lam.) Boiss.	species	Zelkova	abelicea				ICNafp			
+B8-10	Abelicea		genus	Abelicea					ICNafp			
+B8-11	Abelicea cretica (Sibth. & Sm.) Kuntze	(Sibth. & Sm.) Kuntze	species	Abelicea	cretica				ICNafp			Test for duplicate SYN-SYN (same parent, diff authors)
+B8-12	Abelicea cretica (Sibth. & Sm.) Rafin.	(Sibth. & Sm.) Rafin.	species	Abelicea	cretica				ICNafp			Test for duplicate SYN-SYN (same parent, diff authors)
+B8-21	Zabelia		genus	Zabelia					botanical			
+B8-22	Zabelia parvifolia (C. B. Cl.) Golubkova	(C. B. Cl.) Golubkova	species	Zabelia	parvifolia				botanical			
+B8-23	Abelia triflora var. parvifolia (C. B. Cl.) Kitam.	(C. B. Cl.) Kitam.	variety	Abelia	triflora	parvifolia			botanical			Test for duplicate infraspecies SYN-SYN (same parent, diff authors)
+B8-24	Abelia triflora var. parvifolia Clarke	Clarke	variety	Abelia	triflora	parvifolia			botanical			Test for duplicate infraspecies SYN-SYN (same parent, diff authors)
+B9-1	Plantae		kingdom									
+B9-2	Tracheophyta		phylum									
+B9-3	Magnoliopsida		class									
+B9-4	Asterales		order									
+B9-5	Asteraceae		family						ICNafp			
+B9-6	Cheirolophus		genus	Cheirolophus					ICNafp			
+B9-7	Cheirolophus crassifolius (Bertol.) A. Susanna	(Bertol.) A. Susanna	species	Cheirolophus	crassifolius				ICNafp			
+B9-10	Palaeocyanus		genus	Palaeocyanus					ICNafp			
+B9-11	Palaeocyanus crassifolius (Bertol.) Dostal	(Bertol.) Dostal	species	Palaeocyanus	crassifolius				ICNafp			Test for duplicate SYN-SYN (same parent, same authors)
+B9-12	Palaeocyanus crassifolius (Bertol.) Dostal	(Bertol.) Dostal	species	Palaeocyanus	crassifolius				ICNafp			Test for duplicate SYN-SYN (same parent, same authors)
+B9-21	Aconitum		genus	Aconitum					botanical			
+B9-22	Aconitum lycoctonum subsp. neapolitanum (Ten.) Nyman	(Ten.) Nyman	subspecies	Aconitum	parvifolia				botanical			
+B9-23	Aconitum pyrenaicum subsp. lamarckii (Rchb.) O. Bolös & Vigo	(Rchb.) O. Bolös & Vigo	subspecies	Aconitum	pyrenaicum	lamarckii			botanical			Test for duplicate infraspecies SYN-SYN (same parent, same authors)
+B9-24	Aconitum pyrenaicum subsp. lamarckii (Rchb.) O. Bolös & Vigo	(Rchb.) O. Bolös & Vigo	subspecies	Aconitum	pyrenaicum	lamarckii			botanical			Test for duplicate infraspecies SYN-SYN (same parent, same authors)

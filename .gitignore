@@ -2,3 +2,5 @@
 coldp/
 .idea
 zip/
+tmp/*
+tmp/

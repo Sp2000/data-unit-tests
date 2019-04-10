@@ -1,19 +1,18 @@
 ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	publishedInID	publishedInPage	code	status	link	remarks
-1	Plantae		kingdom									
-2	Tracheophyta		phylum									
-3	Magnoliopsida		class									
-4	Asterales		order									
-5	Asteraceae		family						ICNafp			
-6	Anthemis		genus	Anthemis					ICNafp			
-7	Anthemis argyrophylla (Halácsy & Georgiev) Velen.	(Halácsy & Georgiev) Velen.	species	Anthemis	argyrophylla				ICNafp			Test for duplicate ACC-SYN (same parent, same authors)
-8	Anthemis argyrophylla (Halácsy & Georgiev) Velen.	(Halácsy & Georgiev) Velen.	species	Anthemis	argyrophylla				ICNafp			Test for duplicate ACC-SYN (same parent, same authors)
-21	Plantae		kingdom									
-22	Tracheophyta		phylum									
-23	Magnoliopsida		class									
-24	Asterales		order									
-25	Asteraceae		family						ICNafp			
-26	Artemisia		genus	Artemisia					ICNafp			
-27	Artemisia eriopoda 	Bunge	species	Artemisia	eriopoda				ICNafp			
-28	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Ling	variety	Artemisia	eriopoda	rotundifolia			ICNafp			Test for duplicate ACC-SYN infraspecies (same parent, same authors)
-29	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Ling	variety	Artemisia	eriopoda	rotundifolia			ICNafp			Test for duplicate ACC-SYN infraspecies (same parent, same authors)
-
+B5-1	Plantae		kingdom									
+B5-2	Tracheophyta		phylum									
+B5-3	Magnoliopsida		class									
+B5-4	Asterales		order									
+B5-5	Asteraceae		family						ICNafp			
+B5-6	Anthemis		genus	Anthemis					ICNafp			
+B5-7	Anthemis argyrophylla (Halácsy & Georgiev) Velen.	(Halácsy & Georgiev) Velen.	species	Anthemis	argyrophylla				ICNafp			Test for duplicate ACC-SYN (same parent, same authors)
+B5-8	Anthemis argyrophylla (Halácsy & Georgiev) Velen.	(Halácsy & Georgiev) Velen.	species	Anthemis	argyrophylla				ICNafp			Test for duplicate ACC-SYN (same parent, same authors)
+B5-21	Plantae		kingdom									
+B5-22	Tracheophyta		phylum									
+B5-23	Magnoliopsida		class									
+B5-24	Asterales		order									
+B5-25	Asteraceae		family						ICNafp			
+B5-26	Artemisia		genus	Artemisia					ICNafp			
+B5-27	Artemisia eriopoda 	Bunge	species	Artemisia	eriopoda				ICNafp			
+B5-28	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Ling	variety	Artemisia	eriopoda	rotundifolia			ICNafp			Test for duplicate ACC-SYN infraspecies (same parent, same authors)
+B5-29	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Ling	variety	Artemisia	eriopoda	rotundifolia			ICNafp			Test for duplicate ACC-SYN infraspecies (same parent, same authors)

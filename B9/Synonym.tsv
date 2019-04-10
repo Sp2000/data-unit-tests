@@ -1,7 +1,6 @@
 taxonID	nameID	status	remarks
-7	11	synonym	Test for duplicate SYN-SYN (same parent, same authors)
-7	12	synonym	Test for duplicate SYN-SYN (same parent, same authors)
-6	10	synonym	
-22	23	synonym	Test for duplicate infraspecies SYN-SYN (same parent, same authors)
-22	24	synonym	Test for duplicate infraspecies SYN-SYN (same parent, same authors)
-
+B9-7	B9-11	synonym	Test for duplicate SYN-SYN (same parent, same authors)
+B9-7	B9-12	synonym	Test for duplicate SYN-SYN (same parent, same authors)
+B9-6	B9-10	synonym	
+B9-22	B9-23	synonym	Test for duplicate infraspecies SYN-SYN (same parent, same authors)
+B9-22	B9-24	synonym	Test for duplicate infraspecies SYN-SYN (same parent, same authors)

@@ -1,19 +1,18 @@
 ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	publishedInID	publishedInPage	code	status	link	remarks
-1	Plantae		kingdom									
-2	Tracheophyta		phylum									
-3	Magnoliopsida		class									
-4	Asterales		order									
-5	Asteraceae		family						ICNafp			
-6	Ageratina		genus	Ageratina					ICNafp			
-7	Ageratina pochutlana B.L.Turner	B.L.Turner	species	Ageratina	pochutlana				ICNafp			Test for duplicate ACC-SYN (different parent, same authors)
-8	Ageratina pochutlana B.L.Turner	B.L.Turner	species	Ageratina	pochutlana				ICNafp			Test for duplicate ACC-SYN (different parent, same authors)
-21	Plantae		kingdom									
-22	Tracheophyta		phylum									
-23	Magnoliopsida		class									
-24	Solanales		order									
-25	Solanaceae		family						ICNafp			
-26	Solanum		genus	Solanum					ICNafp			
-27	Solanum bahamense L.	L.	species	Solanum	bahamense				ICNafp			
-28	Solanum bahamense var. luxurians D'Arcy	D'Arcy	variety	Solanum	bahamense	luxurians			ICNafp			Test for duplicate ACC-SYN infraspecies (diff parent, same authors)
-29	Solanum bahamense var. luxurians D'Arcy	D'Arcy	variety	Solanum	bahamense	luxurians			ICNafp			Test for duplicate ACC-SYN infraspecies (diff parent, same authors)
-
+B4-1	Plantae		kingdom									
+B4-2	Tracheophyta		phylum									
+B4-3	Magnoliopsida		class									
+B4-4	Asterales		order									
+B4-5	Asteraceae		family						ICNafp			
+B4-6	Ageratina		genus	Ageratina					ICNafp			
+B4-7	Ageratina pochutlana B.L.Turner	B.L.Turner	species	Ageratina	pochutlana				ICNafp			Test for duplicate ACC-SYN (different parent, same authors)
+B4-8	Ageratina pochutlana B.L.Turner	B.L.Turner	species	Ageratina	pochutlana				ICNafp			Test for duplicate ACC-SYN (different parent, same authors)
+B4-21	Plantae		kingdom									
+B4-22	Tracheophyta		phylum									
+B4-23	Magnoliopsida		class									
+B4-24	Solanales		order									
+B4-25	Solanaceae		family						ICNafp			
+B4-26	Solanum		genus	Solanum					ICNafp			
+B4-27	Solanum bahamense L.	L.	species	Solanum	bahamense				ICNafp			
+B4-28	Solanum bahamense var. luxurians D'Arcy	D'Arcy	variety	Solanum	bahamense	luxurians			ICNafp			Test for duplicate ACC-SYN infraspecies (diff parent, same authors)
+B4-29	Solanum bahamense var. luxurians D'Arcy	D'Arcy	variety	Solanum	bahamense	luxurians			ICNafp			Test for duplicate ACC-SYN infraspecies (diff parent, same authors)

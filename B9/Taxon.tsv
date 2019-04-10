@@ -1,11 +1,10 @@
 ID	parentID	nameID	provisional	accordingTo	accordingToID	accordingToDate	referenceID	fossil	recent	lifezone	link	remarks
-1		1										
-2	1	2										
-3	2	3										
-4	3	4										
-5	4	5										
-6	5	6										
-7	6	7										
-21		21				2019-01-11T00:00:00						
-22	21	22		GSD141		2019-01-11T00:00:00		0	1			
-
+B9-1	B9-1	B9-1										
+B9-2	B9-1	B9-2										
+B9-3	B9-2	B9-3										
+B9-4	B9-3	B9-4										
+B9-5	B9-4	B9-5										
+B9-6	B9-5	B9-6										
+B9-7	B9-6	B9-7										
+B9-21	B9-21	B9-21				2019-01-11						
+B9-22	B9-21	B9-22		GSD141		2019-01-11		0	1			
