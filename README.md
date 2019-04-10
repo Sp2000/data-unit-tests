@@ -1,1 +1,3 @@
-# data-unit-tests
+# Data unit tests for CoL+
+
+The data unit tests are used to determine if the CoL+ issue detection is functioning correctly for each of the data quality issues outlined in the [CoL Issues spreadsheet](https://docs.google.com/spreadsheets/d/1RIHaB1IdXy7WKSu_tL5V-M4YtGXDMKb9Cs3XxXieF7c/edit?usp=sharing), which documents frequently occurring problems that are detected in the course of developing and publishing the Catalogue of Life. New issues and data unit tests will be added as new data quality problems are identified. Data quality issues can be reported [here](https://github.com/Sp2000/data-unit-tests/issues).
