@@ -3,3 +3,5 @@ B3-1	B3-2	synonym	Test for duplicate ACC-SYN (different parent, different author
 B3-3	B3-4	synonym	Test for duplicate ACC-SYN (different parent, different authors)	200
 B4-1	B4-2	synonym	Test for duplicate ACC-SYN (different parent, same authors)	141
 B4-4	B4-5	synonym	Test for duplicate ACC-SYN (different parent, same authors)	141
+B5-1	B5-2	synonym	Test for duplicate ACC-SYN (same parent, same authors)	141
+B5-4	B5-5	synonym	Test for duplicate ACC-SYN (same parent, same authors)	141

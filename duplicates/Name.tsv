@@ -9,9 +9,14 @@ B3-1	Acanthophyllum spinosum (Desf.) C. A. Mey.	(Desf.) C. A. Mey.	species	Acant
 B3-2	Acanthophyllum spinosum (Desf.) Kuntze	(Desf.) Kuntze	species	Acanthophyllum	spinosum				botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (different parent, different authors)	141
 B3-3	Leptoiulus trilineatus nigra Attems, 1927	Attems, 1927	subspecies	Leptoiulus	trilineatus	nigra			zoological	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (different parent, different authors)	200
 B3-4	Leptoiulus trilineatus nigra (Verhoeff, 1898)	(Verhoeff, 1898)	subspecies	Leptoiulus	trilineatus	nigra			zoological	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (different parent, different authors)	200
-B3-5	Leptoiulus trilineatus (Koch, C. L., 1847)	(Koch, C. L., 1847)	species	Leptoiulus	trilineatus				zoological	accepted	https://github.com/Sp2000/colplus-backend/issues/195		200
+B3-5	Leptoiulus trilineatus (Koch, C. L., 1847)	(Koch, C. L., 1847)	species	Leptoiulus	trilineatus				zoological	accepted			200
 B4-1	Ageratina pochutlana B.L.Turner	B.L.Turner	species	Ageratina	pochutlana				botanical	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (different parent, same authors)	141
 B4-2	Ageratina pochutlana B.L.Turner	B.L.Turner	species	Ageratina	pochutlana				botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (different parent, same authors)	141
-B4-3	Solanum bahamense L.	L.	species	Solanum	bahamense				botanical	accepted	https://github.com/Sp2000/colplus-backend/issues/195		141
+B4-3	Solanum bahamense L.	L.	species	Solanum	bahamense				botanical	accepted			141
 B4-4	Solanum bahamense var. luxurians D'Arcy	D'Arcy	variety	Solanum	bahamense	luxurians			botanical	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN infraspecies (diff parent, same authors)	141
 B4-5	Solanum bahamense var. luxurians D'Arcy	D'Arcy	variety	Solanum	bahamense	luxurians			botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN infraspecies (diff parent, same authors)	141
+B5-1	Anthemis argyrophylla (Halácsy & Georgiev) Velen.	(Halácsy & Georgiev) Velen.	species	Anthemis	argyrophylla				botanical	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (same parent, same authors)	141
+B5-2	Anthemis argyrophylla (Halácsy & Georgiev) Velen.	(Halácsy & Georgiev) Velen.	species	Anthemis	argyrophylla				botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (same parent, same authors)	141
+B5-3	Artemisia eriopoda 	Bunge	species	Artemisia	eriopoda				botanical	accepted			141
+B5-4	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Ling	variety	Artemisia	eriopoda	rotundifolia			botanical	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (same parent, same authors)	141
+B5-5	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Ling	variety	Artemisia	eriopoda	rotundifolia			botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (same parent, same authors)	141
