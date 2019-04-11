@@ -9,3 +9,7 @@ B6-1	B6-3	synonym	Test for duplicate SYN-SYN (diff parent, diff authors)	141
 B6-2	B6-4	synonym	Test for duplicate SYN-SYN (diff parent, diff authors)	141
 B6-5	B6-7	synonym	Test for duplicate SYN-SYN (diff parent, diff authors)	141
 B6-6	B6-8	synonym	Test for duplicate SYN-SYN (diff parent, diff authors)	141
+B7-1	B7-3	synonym	Test for duplicate SYN-SYN (diff parent, same authors)	141
+B7-2	B7-4	synonym	Test for duplicate SYN-SYN (diff parent, same authors)	141
+B7-5	B7-7	synonym	Test for duplicate SYN-SYN (diff parent, same authors)	141
+B7-6	B7-8	synonym	Test for duplicate SYN-SYN (diff parent, same authors)	141
