@@ -1,3 +1,7 @@
-ID	parentID	nameID	provisional	accordingTo	accordingToID	accordingToDate	referenceID	fossil	recent	lifezone	link	remarks	subgenus	genus	subfamily	family	superfamily	suborder	order	subclass	class	subphylum	phylum	kingdom
-B1-1		B1-1	0	GSD27		2019-04-11		0	1			Test for duplicated accepted species with diff author string		Anomala		Rutelidae	Scarabaeoidea		Coleoptera		Insecta		Arthropoda	Animalia
-B1-2		B1-2	0	GSD27		2019-04-11		0	1			Test for duplicated accepted species with diff author string		Anomala		Rutelidae	Scarabaeoidea		Coleoptera		Insecta		Arthropoda	Animalia
+ID	parentID	nameID	provisional	accordingTo	accordingToID	accordingToDate	referenceID	fossil	recent	lifezone	link	remarks	subgenus	genus	subfamily	family	superfamily	suborder	order	subclass	class	subphylum	phylum	kingdom	databaseID
+B1-1		B1-1	0	GSD27		2019-04-11		0	1			Test for duplicated accepted species with diff author string		Anomala		Rutelidae	Scarabaeoidea		Coleoptera		Insecta		Arthropoda	Animalia	
+B1-2		B1-2	0	GSD27		2019-04-11		0	1			Test for duplicated accepted species with diff author string		Anomala		Rutelidae	Scarabaeoidea		Coleoptera		Insecta		Arthropoda	Animalia	
+B2-1		B2-1	0	GSD8		2019-04-11		0	1			Test for duplicated accepted infraspecies with the same author string		Afrotyphlops		Typhlopidae			Squamata		Reptilia		Chordata	Animalia	
+B2-1		B2-1	0	GSD8		2019-04-11		0	1			Test for duplicated accepted infraspecies with the same author string		Afrotyphlops		Typhlopidae			Squamata		Reptilia		Chordata	Animalia	
+B2-3		B2-3	0	GSD203		2019-04-11		0	1	terrestrial		Test for duplicated accepted species with the same author string	Zopyrothrips	Liothrips		Phlaeothripidae			Thysanoptera		Insecta		Arthropoda	Animalia	
+B2-4		B2-4	0	GSD203		2019-04-11		0	1	terrestrial		Test for duplicated accepted species with the same author string	Zopyrothrips	Liothrips		Phlaeothripidae			Thysanoptera		Insecta		Arthropoda	Animalia	

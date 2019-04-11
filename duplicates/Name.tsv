@@ -1,3 +1,7 @@
-ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	publishedInID	publishedInPage	code	status	link	remarks
-B1-1	Anomala crassa (Benderitter 1923)	(Benderitter 1923)	species	Anomala	crassa				zoological	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted species with diff author string
-B1-2	Anomala crassa Lansberge 1879	Lansberge 1879	species	Anomala	crassa				zoological	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted species with diff author string
+ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	publishedInID	publishedInPage	code	status	link	remarks	databaseID
+B1-1	Anomala crassa (Benderitter 1923)	(Benderitter 1923)	species	Anomala	crassa				zoological	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted species with diff author string	
+B1-2	Anomala crassa Lansberge 1879	Lansberge 1879	species	Anomala	crassa				zoological	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted species with diff author string	
+B2-1	Afrotyphlops schlegelii schlegelii (Peters, 1860)	(Peters, 1860)	subspecies	Afrotyphlops	schlegelii	schlegelii			zoological	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted infraspecies with the same author string	
+B2-2	Afrotyphlops schlegelii schlegelii (Peters, 1860)	(Peters, 1860)	subspecies	Afrotyphlops	schlegelii	schlegelii			zoological	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted infraspecies with the same author string	
+B2-3	Liothrips (Zopyrothrips) vitivorus Priesner, 1935	Priesner, 1935	species	Liothrips	vitivorus				zoological	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted species with the same author string	
+B2-4	Liothrips (Zopyrothrips) vitivorus Priesner, 1935	Priesner, 1935	species	Liothrips	vitivorus				zoological	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted species with the same author string	
