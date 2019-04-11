@@ -14,3 +14,7 @@ B4-4	B4-3	B4-4	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (different
 B5-1		B5-1	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (same parent, same authors)		Anthemis		Asteraceae			Asterales		Magnoliopsida		Tracheophyta	Plantae	141
 B5-3		B5-3	0	GSD141		2019-04-11		0	1					Artemisia		Asteraceae			Asterales		Magnoliopsida		Tracheophyta	Plantae	141
 B5-4	B5-3	B5-4	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (same parent, same authors)		Artemisia		Asteraceae			Asterales		Magnoliopsida		Tracheophyta	Plantae	141
+B6-1		B6-1	0	GSD141		2019-04-11		0	1					Campomanesia		Myrtaceae			Myrtales		Magnoliopsida		Tracheophyta	Plantae	141
+B6-2		B6-2	0	GSD141		2019-04-11		0	1					Campomanesia		Myrtaceae			Myrtales		Magnoliopsida		Tracheophyta	Plantae	141
+B6-5		B6-5	0	GSD141		2019-04-11		0	1					Callianthe		Malvaceae			Malvales		Magnoliopsida		Tracheophyta	Plantae	141
+B6-6		B6-6	0	GSD141		2019-04-11		0	1					Callianthe		Malvaceae			Malvales		Magnoliopsida		Tracheophyta	Plantae	141

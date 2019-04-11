@@ -20,3 +20,11 @@ B5-2	Anthemis argyrophylla (Halácsy & Georgiev) Velen.	(Halácsy & Georgiev) Ve
 B5-3	Artemisia eriopoda 	Bunge	species	Artemisia	eriopoda				botanical	accepted			141
 B5-4	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Ling	variety	Artemisia	eriopoda	rotundifolia			botanical	accepted	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (same parent, same authors)	141
 B5-5	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Ling	variety	Artemisia	eriopoda	rotundifolia			botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (same parent, same authors)	141
+B6-1	Campomanesia lineatifolia Ruiz & Pav.	Ruiz & Pav.	species	Campomanesia	lineatifolia				botanical	accepted			141
+B6-2	Campomanesia guaviroba (DC.) Bertoni	(DC.) Bertoni	species	Campomanesia	guaviroba				botanical	accepted			141
+B6-3	Abbevillea fenzliana Berg	Berg	species	Abbevillea	fenzliana				botanical	synonym		Test for duplicate SYN-SYN (diff parent, diff authors)	141
+B6-4	Abbevillea fenzliana O.Berg	O.Berg	species	Abbevillea	fenzliana				botanical	synonym		Test for duplicate SYN-SYN (diff parent, diff authors)	141
+B6-5	Callianthe sylvatica (Cav.) Dorr	(Cav.) Dorr	species	Callianthe	sylvatica				botanical	accepted			141
+B6-6	Callianthe geminiflora (Kunth) Donnell	(Kunth) Donnell	species	Callianthe	geminiflora				botanical	accepted			141
+B6-7	Abutilon sylvaticum buchtienii subsp. R. E. Fries	R. E. Fries	subspecies	Abutilon	sylvaticum	buchtienii			botanical	synonym		Test for duplicate SYN-SYN (diff parent, diff authors)	141
+B6-8	Abutilon sylvaticum buchtienii subsp. R.E.Fr.	R.E.Fr.	subspecies	Abutilon	sylvaticum	buchtienii			botanical	synonym		Test for duplicate SYN-SYN (diff parent, diff authors)	141
