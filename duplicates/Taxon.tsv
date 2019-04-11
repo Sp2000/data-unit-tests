@@ -6,4 +6,3 @@ B2-2		B2-2	0	GSD8		2019-04-11		0	1			Test for duplicated accepted infraspecies w
 B2-3		B2-3	0	GSD203		2019-04-11		0	1	terrestrial		Test for duplicated accepted species with the same author string	Zopyrothrips	Liothrips		Phlaeothripidae			Thysanoptera		Insecta		Arthropoda	Animalia	203
 B2-4		B2-4	0	GSD203		2019-04-11		0	1	terrestrial		Test for duplicated accepted species with the same author string	Zopyrothrips	Liothrips		Phlaeothripidae			Thysanoptera		Insecta		Arthropoda	Animalia	203
 B3-1		B3-1	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (different parent, different authors)		Acanthophyllum		Caryophyllaceae			Caryophyllales		Magnoliopsida		Tracheophyta	Plantae	141
-B3-2		B3-2	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (different parent, different authors)		Acanthophyllum		Caryophyllaceae			Caryophyllales		Magnoliopsida		Tracheophyta	Plantae	141
