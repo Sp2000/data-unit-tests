@@ -1,0 +1,17 @@
+ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	publishedInID	publishedInPage	code	status	link	remarks
+B7-1	Plantae		kingdom									
+B7-2	Tracheophyta		phylum									
+B7-3	Magnoliopsida		class									
+B7-4	Oxalidales		order									
+B7-5	Oxalidaceae		family						ICNafp			
+B7-6	Oxalis		genus	Oxalis					ICNafp			
+B7-7	Oxalis griffithii Edgew. & Hook. Fil.	Edgew. & Hook. Fil.	species	Oxalis	griffithii				ICNafp			
+B7-8	Oxalis obtriangulata Maxim.	Maxim.	species	Oxalis	obtriangulata				ICNafp			
+B7-10	Acetosella		genus	Acetosella					ICNafp			
+B7-11	Acetosella obtriangulata (Maxim.) Kuntze	(Maxim.) Kuntze	species	Acetosella	obtriangulata				ICNafp			Test for duplicate SYN-SYN (diff parent, same authors)
+B7-12	Acetosella obtriangulata (Maxim.) Kuntze	(Maxim.) Kuntze	species	Acetosella	obtriangulata				ICNafp			Test for duplicate SYN-SYN (diff parent, same authors)
+B7-21	Antennaria		genus	Antennaria					botanical			
+B7-22	Antennaria microphylla Rydb.	Rydb.	species	Antennaria	microphylla				botanical			
+B7-23	Antennaria rosea subsp. rosea		subspecies	Antennaria	rosea	rosea			botanical			
+B7-24	Antennaria rosea var. nitida (Greene) Breitung	(Greene) Breitung	variety	Antennaria	rosea	nitida			botanical			Test for duplicate infraspecies SYN-SYN (diff parent, same authors)
+B7-25	Antennaria rosea var. nitida (Greene) Breitung	(Greene) Breitung	variety	Antennaria	rosea	nitida			botanical			Test for duplicate infraspecies SYN-SYN (diff parent, same authors)

@@ -1,0 +1,19 @@
+ID	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	publishedInID	publishedInPage	code	status	link	remarks
+B3-1	Plantae		kingdom									
+B3-2	Tracheophyta		phylum									
+B3-3	Magnoliopsida		class									
+B3-4	Caryophyllales		order									
+B3-5	Caryophyllaceae		family						ICNafp			
+B3-6	Acanthophyllum		genus	Acanthophyllum					ICNafp			
+B3-7	Acanthophyllum spinosum (Desf.) C. A. Mey.	(Desf.) C. A. Mey.	species	Acanthophyllum	spinosum				ICNafp			Test for duplicate ACC-SYN (different parent, different authors)
+B3-8	Acanthophyllum spinosum (Desf.) Kuntze	(Desf.) Kuntze	species	Acanthophyllum	spinosum				ICNafp			Test for duplicate ACC-SYN (different parent, different authors)
+B3-21	Animalia		kingdom									
+B3-22	Arthropoda		phylum									
+B3-23	Diplopoda		class									
+B3-24	Julida		order						zoological			
+B3-25	Juloidea		superfamily						zoological			
+B3-26	Julidae		family						zoological			
+B3-27	Leptoiulus		genus	Leptoiulus					zoological			
+B3-28	Leptoiulus trilineatus (Koch, C. L., 1847)	(Koch, C. L., 1847)	species	Leptoiulus	trilineatus				zoological			
+B3-29	Leptoiulus trilineatus nigra Attems, 1927	Attems, 1927	subspecies	Leptoiulus	trilineatus	nigra			zoological			Test for duplicate ACC-SYN infraspecies (diff parent, diff authors)
+B3-30	Leptoiulus trilineatus nigra (Verhoeff, 1898)	(Verhoeff, 1898)	subspecies	Leptoiulus	trilineatus	nigra			zoological			Test for duplicate ACC-SYN infraspecies (diff parent, diff authors)

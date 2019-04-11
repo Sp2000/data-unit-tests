@@ -1,0 +1,6 @@
+taxonID	nameID	status	remarks
+B8-7	B8-11	synonym	Test for duplicate SYN-SYN (same parent, diff authors)
+B8-7	B8-12	synonym	Test for duplicate SYN-SYN (same parent, diff authors)
+B8-6	B8-10	synonym	
+B8-22	B8-23	synonym	Test for duplicate infraspecies SYN-SYN (same parent, diff authors)
+B8-22	B8-24	synonym	Test for duplicate infraspecies SYN-SYN (same parent, diff authors)

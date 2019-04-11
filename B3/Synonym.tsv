@@ -1,0 +1,3 @@
+taxonID	nameID	status	remarks
+B3-7	B3-8	synonym	Test for duplicate ACC-SYN (different parent, different authors)
+B3-28	B3-30	synonym	Test for duplicate ACC-SYN infraspecies (diff parent, diff authors)
