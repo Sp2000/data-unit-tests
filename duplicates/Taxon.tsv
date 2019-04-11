@@ -8,3 +8,6 @@ B2-4		B2-4	0	GSD203		2019-04-11		0	1	terrestrial		Test for duplicated accepted s
 B3-1		B3-1	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (different parent, different authors)		Acanthophyllum		Caryophyllaceae			Caryophyllales		Magnoliopsida		Tracheophyta	Plantae	141
 B3-3	B3-5	B3-3	0	GSD200		2019-04-11		0	1	terrestrial		Test for duplicate ACC-SYN (different parent, different authors)		Leptoiulus		Julidae	Juloidea		Julida		Diplopoda		Arthropoda	Animalia	200
 B3-5		B3-5	0	GSD200		2019-04-11		0	1	terrestrial				Leptoiulus		Julidae	Juloidea		Julida		Diplopoda		Arthropoda	Animalia	200
+B4-1		B4-1	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (different parent, same authors)		Ageratina		Asteraceae			Asterales		Magnoliopsida		Tracheophyta	Plantae	141
+B4-3		B4-3	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (different parent, same authors)		Solanum		Solanaceae			Solanales		Magnoliopsida		Tracheophyta	Plantae	141
+B4-4	B4-3	B4-4	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (different parent, same authors)		Solanum		Solanaceae			Solanales		Magnoliopsida		Tracheophyta	Plantae	141
