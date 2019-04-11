@@ -22,23 +22,29 @@ B5-4	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Lin
 B5-5	Artemisia eriopoda var. rotundifolia (Debeaux) Y.R. Ling	(Debeaux) Y.R. Ling	variety	Artemisia	eriopoda	rotundifolia			botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (same parent, same authors)	141
 B6-1	Campomanesia lineatifolia Ruiz & Pav.	Ruiz & Pav.	species	Campomanesia	lineatifolia				botanical	accepted			141
 B6-2	Campomanesia guaviroba (DC.) Bertoni	(DC.) Bertoni	species	Campomanesia	guaviroba				botanical	accepted			141
-B6-3	Abbevillea fenzliana Berg	Berg	species	Abbevillea	fenzliana				botanical	synonym		Test for duplicate SYN-SYN (diff parent, diff authors)	141
-B6-4	Abbevillea fenzliana O.Berg	O.Berg	species	Abbevillea	fenzliana				botanical	synonym		Test for duplicate SYN-SYN (diff parent, diff authors)	141
+B6-3	Abbevillea fenzliana Berg	Berg	species	Abbevillea	fenzliana				botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (diff parent, diff authors)	141
+B6-4	Abbevillea fenzliana O.Berg	O.Berg	species	Abbevillea	fenzliana				botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (diff parent, diff authors)	141
 B6-5	Callianthe sylvatica (Cav.) Dorr	(Cav.) Dorr	species	Callianthe	sylvatica				botanical	accepted			141
 B6-6	Callianthe geminiflora (Kunth) Donnell	(Kunth) Donnell	species	Callianthe	geminiflora				botanical	accepted			141
-B6-7	Abutilon sylvaticum buchtienii subsp. R. E. Fries	R. E. Fries	subspecies	Abutilon	sylvaticum	buchtienii			botanical	synonym		Test for duplicate SYN-SYN (diff parent, diff authors)	141
-B6-8	Abutilon sylvaticum buchtienii subsp. R.E.Fr.	R.E.Fr.	subspecies	Abutilon	sylvaticum	buchtienii			botanical	synonym		Test for duplicate SYN-SYN (diff parent, diff authors)	141
+B6-7	Abutilon sylvaticum buchtienii subsp. R. E. Fries	R. E. Fries	subspecies	Abutilon	sylvaticum	buchtienii			botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (diff parent, diff authors)	141
+B6-8	Abutilon sylvaticum buchtienii subsp. R.E.Fr.	R.E.Fr.	subspecies	Abutilon	sylvaticum	buchtienii			botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (diff parent, diff authors)	141
 B7-1	Oxalis griffithii Edgew. & Hook. Fil.	Edgew. & Hook. Fil.	species	Oxalis	griffithii				botanical	accepted			141
 B7-2	Oxalis obtriangulata Maxim.	Maxim.	species	Oxalis	obtriangulata				botanical	accepted			141
-B7-3	Acetosella obtriangulata (Maxim.) Kuntze	(Maxim.) Kuntze	species	Acetosella	obtriangulata				botanical	synonym		Test for duplicate SYN-SYN (diff parent, same authors)	141
-B7-4	Acetosella obtriangulata (Maxim.) Kuntze	(Maxim.) Kuntze	species	Acetosella	obtriangulata				botanical	synonym		Test for duplicate SYN-SYN (diff parent, same authors)	141
+B7-3	Acetosella obtriangulata (Maxim.) Kuntze	(Maxim.) Kuntze	species	Acetosella	obtriangulata				botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (diff parent, same authors)	141
+B7-4	Acetosella obtriangulata (Maxim.) Kuntze	(Maxim.) Kuntze	species	Acetosella	obtriangulata				botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (diff parent, same authors)	141
 B7-5	Antennaria microphylla Rydb.	Rydb.	species	Antennaria	microphylla				botanical	accepted			141
 B7-6	Antennaria rosea subsp. rosea		subspecies	Antennaria	rosea	rosea			botanical	accepted			141
-B7-7	Antennaria rosea var. nitida (Greene) Breitung	(Greene) Breitung	variety	Antennaria	rosea	nitida			botanical	synonym		Test for duplicate SYN-SYN (diff parent, same authors)	141
-B7-8	Antennaria rosea var. nitida (Greene) Breitung	(Greene) Breitung	variety	Antennaria	rosea	nitida			botanical	synonym		Test for duplicate SYN-SYN (diff parent, same authors)	141
+B7-7	Antennaria rosea var. nitida (Greene) Breitung	(Greene) Breitung	variety	Antennaria	rosea	nitida			botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (diff parent, same authors)	141
+B7-8	Antennaria rosea var. nitida (Greene) Breitung	(Greene) Breitung	variety	Antennaria	rosea	nitida			botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (diff parent, same authors)	141
 B8-1	Zelkova abelicea (Lam.) Boiss.	(Lam.) Boiss.	species	Zelkova	abelicea				botanical	accepted			141
-B8-2	Abelicea cretica (Sibth. & Sm.) Kuntze	(Sibth. & Sm.) Kuntze	species	Abelicea	cretica				botanical	synonym		Test for duplicate SYN-SYN (same parent, diff authors)	141
-B8-3	Abelicea cretica (Sibth. & Sm.) Rafin.	(Sibth. & Sm.) Rafin.	species	Abelicea	cretica				botanical	synonym		Test for duplicate SYN-SYN (same parent, diff authors)	141
+B8-2	Abelicea cretica (Sibth. & Sm.) Kuntze	(Sibth. & Sm.) Kuntze	species	Abelicea	cretica				botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (same parent, diff authors)	141
+B8-3	Abelicea cretica (Sibth. & Sm.) Rafin.	(Sibth. & Sm.) Rafin.	species	Abelicea	cretica				botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (same parent, diff authors)	141
 B8-4	Zabelia parvifolia (C. B. Cl.) Golubkova	(C. B. Cl.) Golubkova	species	Zabelia	parvifolia				botanical	accepted			141
-B8-5	Abelia triflora var. parvifolia (C. B. Cl.) Kitam.	(C. B. Cl.) Kitam.	variety	Abelia	triflora	parvifolia			botanical	synonym		Test for duplicate SYN-SYN (same parent, diff authors)	141
-B8-6	Abelia triflora var. parvifolia Clarke	Clarke	variety	Abelia	triflora	parvifolia			botanical	synonym		Test for duplicate SYN-SYN (same parent, diff authors)	141
+B8-5	Abelia triflora var. parvifolia (C. B. Cl.) Kitam.	(C. B. Cl.) Kitam.	variety	Abelia	triflora	parvifolia			botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (same parent, diff authors)	141
+B8-6	Abelia triflora var. parvifolia Clarke	Clarke	variety	Abelia	triflora	parvifolia			botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (same parent, diff authors)	141
+B9-1	Cheirolophus crassifolius (Bertol.) A. Susanna	(Bertol.) A. Susanna	species	Cheirolophus	crassifolius				botanical	accepted			141
+B9-2	Palaeocyanus crassifolius (Bertol.) Dostal	(Bertol.) Dostal	species	Palaeocyanus	crassifolius				botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (same parent, same authors)	141
+B9-3	Palaeocyanus crassifolius (Bertol.) Dostal	(Bertol.) Dostal	species	Palaeocyanus	crassifolius				botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (same parent, same authors)	141
+B9-4	Aconitum lycoctonum subsp. neapolitanum (Ten.) Nyman	(Ten.) Nyman	subspecies	Aconitum	parvifolia				botanical	accepted			141
+B9-5	Aconitum pyrenaicum subsp. lamarckii (Rchb.) O. Bolös & Vigo	(Rchb.) O. Bolös & Vigo	subspecies	Aconitum	pyrenaicum	lamarckii			botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (same parent, same authors)	141
+B9-6	Aconitum pyrenaicum subsp. lamarckii (Rchb.) O. Bolös & Vigo	(Rchb.) O. Bolös & Vigo	subspecies	Aconitum	pyrenaicum	lamarckii			botanical	synonym	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate SYN-SYN (same parent, same authors)	141

@@ -1,19 +1,19 @@
 ID	parentID	nameID	provisional	accordingTo	accordingToID	accordingToDate	referenceID	fossil	recent	lifezone	link	remarks	subgenus	genus	subfamily	family	superfamily	suborder	order	subclass	class	subphylum	phylum	kingdom	databaseID
-B1-1		B1-1	0	GSD27		2019-04-11		0	1			Test for duplicated accepted species with diff author string		Anomala		Rutelidae	Scarabaeoidea		Coleoptera		Insecta		Arthropoda	Animalia	27
-B1-2		B1-2	0	GSD27		2019-04-11		0	1			Test for duplicated accepted species with diff author string		Anomala		Rutelidae	Scarabaeoidea		Coleoptera		Insecta		Arthropoda	Animalia	27
-B2-1		B2-1	0	GSD8		2019-04-11		0	1			Test for duplicated accepted infraspecies with the same author string		Afrotyphlops		Typhlopidae			Squamata		Reptilia		Chordata	Animalia	8
-B2-2		B2-2	0	GSD8		2019-04-11		0	1			Test for duplicated accepted infraspecies with the same author string		Afrotyphlops		Typhlopidae			Squamata		Reptilia		Chordata	Animalia	8
-B2-3		B2-3	0	GSD203		2019-04-11		0	1	terrestrial		Test for duplicated accepted species with the same author string	Zopyrothrips	Liothrips		Phlaeothripidae			Thysanoptera		Insecta		Arthropoda	Animalia	203
-B2-4		B2-4	0	GSD203		2019-04-11		0	1	terrestrial		Test for duplicated accepted species with the same author string	Zopyrothrips	Liothrips		Phlaeothripidae			Thysanoptera		Insecta		Arthropoda	Animalia	203
-B3-1		B3-1	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (different parent, different authors)		Acanthophyllum		Caryophyllaceae			Caryophyllales		Magnoliopsida		Tracheophyta	Plantae	141
-B3-3	B3-5	B3-3	0	GSD200		2019-04-11		0	1	terrestrial		Test for duplicate ACC-SYN (different parent, different authors)		Leptoiulus		Julidae	Juloidea		Julida		Diplopoda		Arthropoda	Animalia	200
+B1-1		B1-1	0	GSD27		2019-04-11		0	1		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted species with diff author string		Anomala		Rutelidae	Scarabaeoidea		Coleoptera		Insecta		Arthropoda	Animalia	27
+B1-2		B1-2	0	GSD27		2019-04-11		0	1		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted species with diff author string		Anomala		Rutelidae	Scarabaeoidea		Coleoptera		Insecta		Arthropoda	Animalia	27
+B2-1		B2-1	0	GSD8		2019-04-11		0	1		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted infraspecies with the same author string		Afrotyphlops		Typhlopidae			Squamata		Reptilia		Chordata	Animalia	8
+B2-2		B2-2	0	GSD8		2019-04-11		0	1		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted infraspecies with the same author string		Afrotyphlops		Typhlopidae			Squamata		Reptilia		Chordata	Animalia	8
+B2-3		B2-3	0	GSD203		2019-04-11		0	1	terrestrial	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted species with the same author string	Zopyrothrips	Liothrips		Phlaeothripidae			Thysanoptera		Insecta		Arthropoda	Animalia	203
+B2-4		B2-4	0	GSD203		2019-04-11		0	1	terrestrial	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicated accepted species with the same author string	Zopyrothrips	Liothrips		Phlaeothripidae			Thysanoptera		Insecta		Arthropoda	Animalia	203
+B3-1		B3-1	0	GSD141		2019-04-11		0	1		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (different parent, different authors)		Acanthophyllum		Caryophyllaceae			Caryophyllales		Magnoliopsida		Tracheophyta	Plantae	141
+B3-3	B3-5	B3-3	0	GSD200		2019-04-11		0	1	terrestrial	https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (different parent, different authors)		Leptoiulus		Julidae	Juloidea		Julida		Diplopoda		Arthropoda	Animalia	200
 B3-5		B3-5	0	GSD200		2019-04-11		0	1	terrestrial				Leptoiulus		Julidae	Juloidea		Julida		Diplopoda		Arthropoda	Animalia	200
-B4-1		B4-1	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (different parent, same authors)		Ageratina		Asteraceae			Asterales		Magnoliopsida		Tracheophyta	Plantae	141
-B4-3		B4-3	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (different parent, same authors)		Solanum		Solanaceae			Solanales		Magnoliopsida		Tracheophyta	Plantae	141
-B4-4	B4-3	B4-4	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (different parent, same authors)		Solanum		Solanaceae			Solanales		Magnoliopsida		Tracheophyta	Plantae	141
-B5-1		B5-1	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (same parent, same authors)		Anthemis		Asteraceae			Asterales		Magnoliopsida		Tracheophyta	Plantae	141
+B4-1		B4-1	0	GSD141		2019-04-11		0	1		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (different parent, same authors)		Ageratina		Asteraceae			Asterales		Magnoliopsida		Tracheophyta	Plantae	141
+B4-3		B4-3	0	GSD141		2019-04-11		0	1		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (different parent, same authors)		Solanum		Solanaceae			Solanales		Magnoliopsida		Tracheophyta	Plantae	141
+B4-4	B4-3	B4-4	0	GSD141		2019-04-11		0	1		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (different parent, same authors)		Solanum		Solanaceae			Solanales		Magnoliopsida		Tracheophyta	Plantae	141
+B5-1		B5-1	0	GSD141		2019-04-11		0	1		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (same parent, same authors)		Anthemis		Asteraceae			Asterales		Magnoliopsida		Tracheophyta	Plantae	141
 B5-3		B5-3	0	GSD141		2019-04-11		0	1					Artemisia		Asteraceae			Asterales		Magnoliopsida		Tracheophyta	Plantae	141
-B5-4	B5-3	B5-4	0	GSD141		2019-04-11		0	1			Test for duplicate ACC-SYN (same parent, same authors)		Artemisia		Asteraceae			Asterales		Magnoliopsida		Tracheophyta	Plantae	141
+B5-4	B5-3	B5-4	0	GSD141		2019-04-11		0	1		https://github.com/Sp2000/colplus-backend/issues/195	Test for duplicate ACC-SYN (same parent, same authors)		Artemisia		Asteraceae			Asterales		Magnoliopsida		Tracheophyta	Plantae	141
 B6-1		B6-1	0	GSD141		2019-04-11		0	1					Campomanesia		Myrtaceae			Myrtales		Magnoliopsida		Tracheophyta	Plantae	141
 B6-2		B6-2	0	GSD141		2019-04-11		0	1					Campomanesia		Myrtaceae			Myrtales		Magnoliopsida		Tracheophyta	Plantae	141
 B6-5		B6-5	0	GSD141		2019-04-11		0	1					Callianthe		Malvaceae			Malvales		Magnoliopsida		Tracheophyta	Plantae	141
@@ -24,3 +24,5 @@ B7-5		B7-5	0	GSD141		2019-04-11		0	1					Antennaria		Asteraceae			Asterales		Mag
 B7-6		B7-6	0	GSD141		2019-04-11		0	1					Antennaria		Asteraceae			Asterales		Magnoliopsida		Tracheophyta	Plantae	141
 B8-1		B8-1	0	GSD141		2019-04-11		0	1					Zelkova		Ulmaceae			Rosales		Magnoliopsida		Tracheophyta	Plantae	141
 B8-4		B8-4	0	GSD141		2019-04-11		0	1					Zabelia		Caprifoliaceae			Dipsacales		Magnoliopsida		Tracheophyta	Plantae	141
+B9-1		B9-1	0	GSD141		2019-04-11		0	1					Cheirolophus		Asteraceae			Asterales		Magnoliopsida		Tracheophyta	Plantae	141
+B9-4		B9-4	0	GSD141		2019-04-11		0	1					Aconitum		Ranunculaceae			Ranunculales		Magnoliopsida		Tracheophyta	Plantae	141
