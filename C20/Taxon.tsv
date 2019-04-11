@@ -1,5 +1,0 @@
-ID	parentID	nameID	provisional	accordingTo	accordingToID	accordingToDate	referenceID	fossil	recent	lifezone	link	remarks	subgenus	genus	subfamily	family	superfamily	suborder	order	subclass	class	subphylum	phylum	kingdom
-1	1	1	0	GSD101		2019-04-02										Anthomyiidae			Diptera		Insecta		Arthropoda	Animalia
-2	2	2	0	GSD101		2019-04-02										Muscidae			Diptera		Insecta		Arthropoda	Animalia
-3	1	3	0	GSD101		2019-04-02		0	1			Test for duplicate genera split between more than 1 family		Adia		Anthomyiidae			Diptera		Insecta		Arthropoda	Animalia
-4	2	4	0	GSD101		2019-04-02		0	1			Test for duplicate genera split between more than 1 family		Adia		Muscidae			Diptera		Insecta		Arthropoda	Animalia
