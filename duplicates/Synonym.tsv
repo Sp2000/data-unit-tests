@@ -1,5 +1,5 @@
 taxonID	nameID	status	remarks	databaseID
-B3-1	B3-2	synonym	Test for duplicate ACC-SYN (different parent, different authors)	141
+B3-6	B3-2	synonym	Test for duplicate ACC-SYN (different parent, different authors)	141
 B3-3	B3-4	synonym	Test for duplicate ACC-SYN (different parent, different authors)	200
 B4-1	B4-2	synonym	Test for duplicate ACC-SYN (different parent, same authors)	141
 B4-4	B4-5	synonym	Test for duplicate ACC-SYN (different parent, same authors)	141
